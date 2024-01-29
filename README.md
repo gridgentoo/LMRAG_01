@@ -1,3 +1,6 @@
+Оригинальный код   
+https://github.com/kvoloshenko/LMRAG_01    
+
 Приглашаю в Телеграм общаться по это теме: https://t.me/AiExp01
 
 # LMRAG_01
